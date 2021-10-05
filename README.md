@@ -1,8 +1,7 @@
 ## Hi there, I'm Ashish Yadav
 
 <p align="center">
-<img width="20%" style="padding:5px" src="https://w7.pngwing.com/pngs/874/950/png-transparent-computer-icons-source-code-programmer-icon-design-program-optimization-symbol-miscellaneous-angle-text.png"/>
-	
+<img width="30%" style="padding:5px" src="https://i.pinimg.com/originals/76/f4/cd/76f4cdff761142b31043f951b732a045.png"/>	
 </p>
 
 - I am a LEARNER | DEVELOPER | WANDERER
