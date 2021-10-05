@@ -1,5 +1,4 @@
-## Hi there, I'm Ashish Yadav
-#### Profile views counter
+## Hi there, I'm Ashish Yadav #### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{ashyads}/count.svg)
 
 <p align="center">
