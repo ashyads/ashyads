@@ -1,7 +1,7 @@
 ## Hi there, I'm Ashish Yadav
 
 <p align="center">
-<img width="20%" src="<img src="https://img.icons8.com/color/96/000000/code-folder.png"/>
+<img width="20%" style="padding:5px" src="https://github.com/ashyads/ashyads/blob/master/Ashish_yadav.png?raw=true"/>
 	
 </p>
 
@@ -32,9 +32,9 @@
 ### Technologies..
 
 <p align="center">
-    <img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/django.png"/>
-    <img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
-    <img width="10%" style="padding:5px" src="https://img.icons8.com/officexs/80/000000/react.png"/></p>
+    <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/django.png"/>
+    <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/spring-logo.png"/>
+    <img width="10%" style="padding:5px" src="https://img.icons8.com/officexs/144/000000/react.png"/></p>
 
 #### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{ashyads}/count.svg)
