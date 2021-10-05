@@ -23,7 +23,6 @@ I’m a Software Development Engineer with 3.5 years + of experience. I am curre
 Currently practicing Deep Learning.
 Willing to contribute more and more in Open Source Projects.</h5> 
 <h4 align="center">Let's Collaborate.</h4>
-<hr>
 
 [comment]: <> (<p align="center">)
 
