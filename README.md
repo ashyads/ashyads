@@ -1,7 +1,7 @@
 ## Hi there, I'm Ashish Yadav
 
 <p align="center">
-<img width="20%" src="<img src="https://img.icons8.com/color/96/000000/code-folder.png"/>"/>
+<img width="20%" src="<img src="https://img.icons8.com/color/96/000000/code-folder.png"/>
 	
 </p>
 
