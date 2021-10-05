@@ -5,7 +5,8 @@
 </p>
 
 - I am a LEARNER | DEVELOPER | WANDERER
-- Software Developer at a FAANG company. | ML & AI Developer
+- Software Developer at a FAANG company. 
+- Machine Learning Developer
 - Currently practicing Deep Learning.
 - Willing to contribute more and more in Open Source Projects
 
