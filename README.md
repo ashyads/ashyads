@@ -1,7 +1,7 @@
 ## Hi there, I'm Ashish Yadav
 
 <p align="center">
-<img width="20%" style="padding:5px" src="https://github.com/ashyads/ashyads/blob/master/Ashish_yadav.png?raw=true"/>
+<img width="20%" style="padding:5px" src="https://banner2.cleanpng.com/20200219/oyo/transparent-code-icon-coding-icon-computer-icon-5e4df3f9e61755.2931755915821670339425.jpg"/>
 	
 </p>
 
