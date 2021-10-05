@@ -1,7 +1,7 @@
 ## Hi there, I'm Ashish Yadav
 
 <p align="center">
-<img width="20%" style="padding:5px" src="https://banner2.cleanpng.com/20200219/oyo/transparent-code-icon-coding-icon-computer-icon-5e4df3f9e61755.2931755915821670339425.jpg"/>
+<img width="20%" style="padding:5px" src="https://w7.pngwing.com/pngs/874/950/png-transparent-computer-icons-source-code-programmer-icon-design-program-optimization-symbol-miscellaneous-angle-text.png"/>
 	
 </p>
 
