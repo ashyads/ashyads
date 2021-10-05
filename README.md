@@ -15,11 +15,9 @@
 [comment]: <> (</div>)
 
 [comment]: <> (</div>)
-<h1 align="center">Hi,<img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" 
-         alt="Waving hand animated gif"
-         height="40"
-         width="40" /> I'm Ashish Yadav</h1>
-<hr>
+
+<h1 align="center">Hi,<img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" alt="Waving hand animated gif" height="40" width="40" /> I'm Ashish Yadav</h1>
+	 
 <h5 align="center">
 I’m a Software Development Engineer with 3.5 years + of experience. I am currently working with a FAANG company. A Machine Learning Developer
 Currently practicing Deep Learning.
