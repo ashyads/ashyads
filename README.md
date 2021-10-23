@@ -19,7 +19,7 @@
 <h1 align="center">Hi,<img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" alt="Waving hand animated gif" height="40" width="40" /> I'm Ashish Yadav</h1>
 	 
 <h5 align="center">
-I’m a Software Development Engineer with 3.5 years + of experience. I am currently working with a FAANG company. I'm extremely passionate about reeking open-source more accessible, creating technology to elevate people and building community.</h5> 
+I’m a Software Development Engineer with 3.5 years + of experience. I'm extremely passionate about reeking open-source more accessible, creating technology to elevate people and building community.</h5> 
 
 <h4 align="center">Let's Work Together.</h4>
 
